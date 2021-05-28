@@ -6,6 +6,13 @@ authors = ["m7madmomani2 <mohammad.momani1996.kk@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.2.4"
+matplotlib = "^3.4.2"
+sklearn = "^0.0"
+seaborn = "^0.11.1"
+numpy = "^1.20.3"
+ipykernel = "^5.5.5"
+jupyterlab = "^3.0.16"
 
 [tool.poetry.dev-dependencies]
 
